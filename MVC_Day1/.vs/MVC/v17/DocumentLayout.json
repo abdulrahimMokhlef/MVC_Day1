@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|d:\\mvc\\mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|d:\\mvc\\mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|d:\\mvc\\mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|d:\\mvc\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|d:\\mvc\\mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|solutionrelative:mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|d:\\mvc\\mvc\\context\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|solutionrelative:mvc\\context\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|d:\\mvc\\mvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|d:\\mvc\\mvc\\migrations\\20251012234938_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|solutionrelative:mvc\\migrations\\20251012234938_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|d:\\mvc\\mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6096377-D81C-4C77-94B8-034685041F47}|MVC\\MVC.csproj|solutionrelative:mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\MVC\\MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVC\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\MVC\\MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-13T00:36:56.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MVC\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "D:\\MVC\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T00:32:28.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\MVC\\MVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\MVC\\MVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:09:06.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\MVC\\MVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\Student.cs",
+              "ToolTip": "D:\\MVC\\MVC\\Models\\Student.cs",
+              "RelativeToolTip": "MVC\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T23:18:27.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\MVC\\MVC\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\MVC\\MVC\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:05:59.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "D:\\MVC\\MVC\\Context\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "MVC\\Context\\CompanyContext.cs",
+              "ToolTip": "D:\\MVC\\MVC\\Context\\CompanyContext.cs",
+              "RelativeToolTip": "MVC\\Context\\CompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:24:07.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\MVC\\MVC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\Department.cs",
+              "ToolTip": "D:\\MVC\\MVC\\Models\\Department.cs",
+              "RelativeToolTip": "MVC\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T23:18:19.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251012234938_CreateDb.cs",
+              "DocumentMoniker": "D:\\MVC\\MVC\\Migrations\\20251012234938_CreateDb.cs",
+              "RelativeDocumentMoniker": "MVC\\Migrations\\20251012234938_CreateDb.cs",
+              "ToolTip": "D:\\MVC\\MVC\\Migrations\\20251012234938_CreateDb.cs",
+              "RelativeToolTip": "MVC\\Migrations\\20251012234938_CreateDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T23:49:38.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MVC.csproj",
+              "DocumentMoniker": "D:\\MVC\\MVC\\MVC.csproj",
+              "RelativeDocumentMoniker": "MVC\\MVC.csproj",
+              "ToolTip": "D:\\MVC\\MVC\\MVC.csproj",
+              "RelativeToolTip": "MVC\\MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T21:34:57.659Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
