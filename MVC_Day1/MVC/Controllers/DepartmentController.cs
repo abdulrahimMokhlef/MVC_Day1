@@ -1,26 +1,48 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using MVC.Context;
+﻿using MVC.Context;
+using MVC.Models;
+using Microsoft.AspNetCore.Mvc;
+
 
 namespace MVC.Controllers
 {
     public class DepartmentController : Controller
     {
-        CompanyContext db = new CompanyContext();
+        SchoolContext dptcontext = new SchoolContext();
 
         public IActionResult getAll()
         {
-            var depts = db.Departments.ToList();
-            return View("getAll", depts);
+            var departments = dptcontext.departments.ToList();
+            return View(departments);
         }
+        public IActionResult getById(int id)
+        {
+            var departments = dptcontext.departments.Find(id);
 
-        public IActionResult Details(int id)
-        {
-            var dept = db.Departments.Find(id);
-            return View(dept);
+            return View(departments);
         }
-        public IActionResult Index()
+        public IActionResult getByName(int id, string name)
         {
-            return View();
+            var departments = dptcontext.departments.FirstOrDefault(c => c.Name == name);
+
+            return View(departments);
+        }
+        public IActionResult AddDepartment()
+        {
+            return View("AddDepartment");
+        }
+        public IActionResult AddNewDepartment(Department dept)
+        {
+            if (dept.Name != null)
+            {
+                dptcontext.departments.Add(dept);
+                dptcontext.SaveChanges();
+                return RedirectToAction("getAll");
+            }
+            else
+            {
+                return View("AddDepartment");
+            }
         }
     }
 }
+
